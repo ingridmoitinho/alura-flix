@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# 🎥 Projeto AluraFlix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📖 Sobre o Projeto
 
-## Available Scripts
+O **AluraFlix** é uma plataforma de streaming fictícia desenvolvida para consolidar os conhecimentos adquiridos na Especialização Front-End com React, utilizando HTML, CSS e React.js. Este projeto faz parte do programa ONE - Oracle Next Education em parceria com Alura, esse desafio oferece uma experiência prática de como criar interfaces interativas e funcionais, semelhantes às utilizadas em aplicações reais.
 
-In the project directory, you can run:
+- [AluraFlix- Figma](https://www.figma.com/design/06e5IXeOVl8QvA3mm4TENR/New-AluraFlix---PT?node-id=1-106).
 
-### `npm start`
+## 🚀 Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Carregamento Dinâmico de Vídeos**: Consome dados de uma API (simulada com `db.json`) e exibe os vídeos categorizados.
+- **Gerenciamento de Vídeos**:
+  - **Editar**: Atualização de informações como título, descrição e URL dos vídeos (via `ModalEditar`)..
+  - **Excluir**: Remoção de vídeos diretamente na interface.
+- **Visualização de Vídeos**: Exibe os vídeos em um modal de reprodução.
+- **Navegação por Categorias**: Filtra os vídeos com base na categoria.
+- **Página Não Encontrada (404)**: Exibe uma mensagem personalizada para rotas inexistentes.
+- **Contexto**: Adicionado o contexto para gerenciar o cadastro de novos vídeos na página inicial.
+- **Gerenciamento de Estado com Context**: Utilização de hooks como useContext e useState para gerenciar o estado de vídeos.
+- **Contexto de Vídeos**: Gerencia o cadastro de novos vídeos na página inicial.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **HTML5**: Estrutura semântica.
+- **CSS3 (Modules)**: Estilização com suporte a design responsivo.
+- **JavaScript (ES6+)**: Manipulação de elementos e funcionalidades interativas.
+- **React.js**: Criação de componentes reutilizáveis e gerenciados por estado.
+- **JSON Server**: Simulação de API para dados de vídeos.
