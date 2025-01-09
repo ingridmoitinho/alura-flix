@@ -1,0 +1,16 @@
+:root {
+  --fonte:  "Roboto", serif;
+  --branco: #FFFFFF;
+  --preto: #000000;
+  --cinza: #191919;
+  --azul: #0b3046;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color:  var(--cinza);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
