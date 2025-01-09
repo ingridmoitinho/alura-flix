@@ -1,0 +1,28 @@
+.listaSuspensa {
+    font-family: var(--fonteSecundaria);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+.campoInput {
+    padding: 10px;
+    border: 2px solid var(--cinza);
+    border-radius: 10px;
+    background-color: transparent;
+    color: var(--branco);
+    font-size: 1.25rem;
+    font-weight: 400;   
+    outline: 0;
+}
+
+.opcoes {
+    background-color: var(--azul);
+}
+
+.campoInput:focus {
+    border-color:  var(--branco);
+}

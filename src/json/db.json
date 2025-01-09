@@ -1,0 +1,148 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Meu Demônio Favorito",
+      "descricao": "Uma emocionante história de amor proibido entre uma humana e um demônio. Eles desafiam as barreiras entre seus mundos e se apaixonam, mas enfrentam obstáculos tanto internos quanto externos. Essa história de amor promete trazer um toque de drama e fantasia à medida que eles lutam para ficarem juntos.",
+      "imagem": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/01/01-66.jpg",
+      "link": "https://www.youtube.com/watch?v=R6l5tiENDcU",
+      "categoria": "Dorama"
+    },
+    {
+      "id": 2,
+      "titulo": "Rainha de Lágrimas",
+      "descricao": "Drama envolvente sobre uma mulher que enfrenta suas tragédias pessoais enquanto descobre forças inesperadas. Ela passa por uma transformação interna enquanto luta contra as adversidades da vida, desafiando as expectativas. A história mistura dor e superação, criando uma narrativa profundamente emocional.",
+      "imagem": "https://occ-0-8407-1361.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeos5tVGd27aJzWxFNlqmdn_pf7zB52m5xFueSeDIwHMzMPcv_HY2aM5hOHOxR5n5V9sZeW6pW1NV4w4QBF7UdpcNGGscdLQS3RF.jpg?r=a5a",
+      "link": "https://www.youtube.com/watch?v=_rNtXO6JuaQ",
+      "categoria": "Dorama"
+    },
+    {
+      "id": 3,
+      "titulo": "Sorriso Real",
+      "descricao": "Em meio a uma disputa pela herança, um charmoso herdeiro entra em conflito com uma funcionária e seu enorme sorriso, que ele simplesmente não suporta.",
+      "imagem": "https://i0.wp.com/pastilhasgeek.com.br/wp-content/uploads/2023/09/sorriso-real-2.jpg?resize=800%2C445&ssl=1",
+      "link": "https://www.youtube.com/watch?v=nK5VuG6Dcgg",
+      "categoria": "Dorama"
+    },
+    {
+      "id": 4,
+      "titulo": "Hometown Cha-Cha-Cha",
+      "descricao": "Uma dentista da cidade grande se muda para uma vila costeira, onde descobre o amor e os encantos de uma vida simples. O drama romântico oferece uma visão calorosa e encantadora sobre a vida tranquila, ao mesmo tempo que explora o crescimento pessoal. Com personagens cativantes, este dorama é uma celebração de novas oportunidades e amor inesperado.",
+      "imagem": "https://tm.ibxk.com.br/2023/06/01/01161933587256.jpg?ims=1200x675",
+      "link": "https://www.youtube.com/watch?v=jnd2RtVB980",
+      "categoria": "Dorama"
+    },
+    {
+      "id": 5,
+      "titulo": "Pretendente Surpresa",
+      "descricao": "Um romance inesperado entre uma jovem desajeitada e um CEO misterioso que esconde seu verdadeiro eu. A história de amor se desenvolve entre confusões, descobertas e momentos tocantes. Prepare-se para se emocionar com essa trama repleta de surpresas e reviravoltas.",
+      "imagem": "https://img.odcdn.com.br/wp-content/uploads/2023/04/dorama-pretendente-surpresa.png",
+      "link": "https://www.youtube.com/watch?v=M-PHcxPyasA",
+      "categoria": "Dorama"
+    },
+    {
+      "id": 6,
+      "titulo": "Coraline",
+      "descricao": "Coraline é uma garota curiosa que descobre um mundo paralelo, onde tudo parece perfeito, mas logo se revela cheio de mistérios e perigos. Em sua jornada, ela aprende sobre coragem, identidade e a importância de valorizar o que tem. Este conto sombrio de fantasia traz uma visão única sobre o crescimento pessoal e o enfrentamento dos medos.",
+      "imagem": "https://wallpapers.com/images/hd/coraline-pictures-ip2dmawzf75fns7p.jpg",
+      "link": "https://www.youtube.com/watch?v=P8lfdvXkhu0",
+      "categoria": "Animacao"
+    },
+    {
+      "id": 7,
+      "titulo": "O Estranho Mundo de Jack",
+      "descricao": "Em uma aventura sombria no mundo de Halloween, Jack Skellington, o rei das abóboras, tenta introduzir o Natal em sua cidade, mas as coisas não saem como planejado. A história mistura comédia, emoção e o encanto peculiar de Tim Burton. Uma viagem única e mágica ao universo de Jack, cheio de momentos inesquecíveis.",
+      "imagem": "https://s2-techtudo.glbimg.com/hjR8eAdMNTRyjHSK1cPvUnVcdv4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/N/6/2uGo6SSsyoPm8HPuk3ig/o-estranho-mundo-de-jack-walt-disney-pictures.jpg",
+      "link": "https://www.youtube.com/watch?v=Hf3ihCgVSGY/",
+      "categoria": "Animacao"
+    },
+    {
+      "id": 8,
+      "titulo": "A Noiva Cadáver",
+      "descricao": "Uma história de amor sombria, onde Victor se vê no mundo dos mortos após um erro em seu noivado. Ele conhece Emily, uma noiva cadavérica que o leva para um mundo encantador, mas cheio de mistérios. Esse conto gótico e romântico explora temas como sacrifício, amor e lealdade.",
+      "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/a-noiva-cadaver.jpg",
+      "link": "https://www.youtube.com/watch?v=_oUlx4U5_VY",
+      "categoria": "Animacao"
+    },
+    {
+      "id": 9,
+      "titulo": "Encanto",
+      "descricao": "Encanto segue a história da família Madrigal, que vive em uma vila mágica onde todos têm poderes especiais, exceto a jovem Mirabel. Em sua jornada, ela descobre a verdadeira magia da família e aprende o valor da aceitação. Com canções cativantes e uma narrativa encantadora, é uma celebração da diversidade e do amor familiar.",
+      "imagem": "https://lumiere-a.akamaihd.net/v1/images/cg_encanto_mobile_22221_876aaa3c.jpeg?region=0,32,1024,576&width=960",
+      "link": "https://www.youtube.com/watch?v=zRMicKd9IH8",
+      "categoria": "Animacao"
+    },
+    {
+      "id": 10,
+      "titulo": "O Serviço de Entregas da Kiki",
+      "descricao": "A jornada de Kiki, uma bruxa adolescente que se muda para uma cidade à beira-mar, em busca de independência. Ao iniciar seu serviço de entregas, ela encontra novos desafios e amizades. O filme explora temas de amadurecimento, autoconfiança e a descoberta do seu verdadeiro eu.",
+      "imagem": "https://www.planocritico.com/wp-content/uploads/2021/01/o_servico_de_entregas_da_kiki_plano_critico.jpg",
+      "link": "https://www.youtube.com/watch?v=hWFSkBJJkvY",
+      "categoria": "Animacao"
+    },
+    {
+      "id": 11,
+      "titulo": "Orgulho e Preconceito",
+      "descricao": "Um clássico romance de Jane Austen que explora a luta entre o amor e o orgulho em uma sociedade de classes rígidas.",
+      "imagem": "https://wallpapers.com/images/hd/2005-pride-and-prejudice-poster-b1oftr6k1vs9pw22.jpg",
+      "link": "https://www.youtube.com/watch?v=oXPCwF6W_gY",
+      "categoria": "Romance"
+    },
+    {
+      "id": 12,
+      "titulo": "Love, Rose",
+      "descricao": "Uma comédia romântica que narra a história de amor entre um jovem casal enquanto enfrentam desafios e conflitos emocionais.",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkm-sqKxcK0ZylcEMcdgprvZyF5Bs8U4FOeU9WOftAquZsIFEoGqJXrl0wRqOJrtodbQrRP0zMTP9WcceCAvMaekTl0E2nX3bhjyVJkS6PN6oMzJ59Q6IpIW4n5kBAHaCUL04-GkZLqEk/s1600/SIMPLESMENTE+ACONTECE.jpg",
+      "link": "https://www.youtube.com/watch?v=-gtvVQmvmyc",
+      "categoria": "Romance"
+    },
+    {
+      "id": 13,
+      "titulo": "PS. Eu Te Amo",
+      "descricao": "Uma história emocionante sobre um amor que resiste ao tempo e às adversidades, com uma jornada de cura e esperança.",
+      "imagem": "https://rollingstone.com.br/media/uploads/2023/01/ps-eu-te-amo-gerard-butler-hilary-swank-foto-divulgacao.jpg",
+      "link": "https://www.youtube.com/watch?v=iR-Z5VekHTQ",
+      "categoria": "Romance"
+    },
+    {
+      "id": 14,
+      "titulo": "Amor à Primeira Vista",
+      "descricao": "Uma comédia romântica que explora o amor instantâneo e as consequências de encontrar a alma gêmea em um instante.",
+      "imagem": "https://s2-techtudo.glbimg.com/J20zjKLbNKuH8dg03dD9dXNc7Ec=/0x0:1280x720/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/j/h/S8s90fTvGBkRcXHc3mYw/love1.jpg",
+      "link": "https://www.youtube.com/watch?v=AmorPrimeiroVisita",
+      "categoria": "Romance"
+    },
+    {
+      "id": 15,
+      "titulo": "One Piece",
+      "descricao": "One Piece é uma série de anime e mangá japonesa criada por Eiichiro Oda. A trama segue a jornada do jovem pirata Monkey D. Luffy e sua tripulação, que buscam o tesouro conhecido como 'One Piece' para se tornarem os reis dos piratas. Com uma narrativa rica em aventuras, mistério e momentos emocionantes, One Piece combina ação, amizade e uma vasta diversidade de personagens icônicos.",
+      "imagem": "https://i1.wp.com/guiadoanime.com.br/wp-content/uploads/2024/01/Os-novos-designs-de-chapeus-de-palha-de-One-Piece.jpg",
+      "link": "https://www.youtube.com/watch?v=LHTYpWI3S6Q",
+      "categoria": "Anime"
+    },
+    {
+      "id": 16,
+      "titulo": "Demon Slayer",
+      "descricao": "Demon Slayer: Kimetsu no Yaiba é uma série de anime e mangá que conta a história de Tanjiro Kamado, um jovem que se torna caçador de demônios para vingar sua família após uma tragédia. Com uma arte visual impressionante e batalhas intensas, o anime explora temas como determinação, sacrifício e a busca pela justiça. Demon Slayer se destacou por sua trama emocional e cenas de luta memoráveis.",
+      "imagem": "https://static.wixstatic.com/media/d1d730_5eecce26241c4e3590cf29f856473e2d~mv2.jpg/v1/fill/w_1000,h_500,al_c,q_85,usm_0.66_1.00_0.01/d1d730_5eecce26241c4e3590cf29f856473e2d~mv2.jpg",
+      "link": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+      "categoria": "Anime"
+    },
+    {
+      "id": 17,
+      "titulo": "Frieren",
+      "descricao": "Frieren é um anime que se passa em um mundo pós-batalha, onde a maga imortal Frieren viaja pelo mundo em busca de respostas sobre a vida após a derrota de um grande mal. Com um enredo introspectivo e focado na reflexão sobre o tempo e a mortalidade, Frieren explora temas como a solidão, a busca pelo sentido da vida e a passagem do tempo, proporcionando uma experiência emocional profunda.",
+      "imagem": "https://files.meiobit.com/wp-content/uploads/2023/10/frieren-beyond-journeys-end-001.jpg",
+      "link": "https://www.youtube.com/watch?v=eXjbk-4ljgc",
+      "categoria": "Anime"
+    },
+    {
+      "id": 18,
+      "titulo": "Spy x Family",
+      "descricao": "Spy x Family é uma série de anime que mistura ação, comédia e intriga. A história segue o espião Loid Forger, que forma uma falsa família para cumprir uma missão. Com personagens carismáticos como sua 'esposa' Yor e a filha adotiva Anya, o anime aborda temas como lealdade, amor e a natureza das relações familiares, enquanto entrega uma narrativa divertida e cheia de reviravoltas.",
+      "imagem": "https://m.media-amazon.com/images/S/pv-target-images/83edca494667495eaa945eccd2de76f00c5cf07d7e5d3ec1b6447c01475b3743.jpg",
+      "link": "https://www.youtube.com/watch?v=r0C9_RQVuHg",
+      "categoria": "Anime"
+    }
+  ]
+  }

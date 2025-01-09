@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1000,
+        "nome": "Dorama",
+        "cor": "#0074D9 "
+    },
+    {
+        "id": 2000,
+        "nome": "Animacao",
+        "cor": "#B10DC9"
+    },
+    {
+        "id": 3000,
+        "nome": "Romance",
+        "cor": "#C71585 "
+    },
+    {
+        "id": 4000,
+        "nome": "Anime",
+        "cor": "#C35643 "
+    }
+]

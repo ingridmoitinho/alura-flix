@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2,
+    "titulo": "Rainha de Lágrimas",
+    "descricao": "Drama envolvente sobre uma mulher que enfrenta suas tragédias pessoais enquanto descobre forças inesperadas.",
+    "imagem": "https://occ-0-8407-1361.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeos5tVGd27aJzWxFNlqmdn_pf7zB52m5xFueSeDIwHMzMPcv_HY2aM5hOHOxR5n5V9sZeW6pW1NV4w4QBF7UdpcNGGscdLQS3RF.jpg?r=a5a",
+    "link": "https://www.youtube.com/watch?v=_rNtXO6JuaQ",
+    "categoria": "Dorama"
+  },
+  {
+    "id": 5,
+    "titulo": "Pretendente Surpresa",
+    "descricao": "Um romance inesperado entre uma jovem desajeitada e um CEO que esconde seu verdadeiro eu.",
+    "imagem": "https://img.odcdn.com.br/wp-content/uploads/2023/04/dorama-pretendente-surpresa.png",
+    "link": "https://www.youtube.com/watch?v=M-PHcxPyasA",
+    "categoria": "Dorama"
+  },
+  {
+    "id": 6,
+    "titulo": "Coraline",
+    "descricao": "Uma garota que descobre um mundo paralelo cheio de mistérios e perigos.",
+    "imagem": "https://wallpapers.com/images/hd/coraline-pictures-ip2dmawzf75fns7p.jpg",
+    "link": "https://www.youtube.com/watch?v=P8lfdvXkhu0",
+    "categoria": "Animacao"
+  },
+  {
+    "id": 9,
+    "titulo": "Encanto",
+    "descricao": "Uma jornada mágica com a família Madrigal em uma vila encantada.",
+    "imagem": "https://lumiere-a.akamaihd.net/v1/images/cg_encanto_mobile_22221_876aaa3c.jpeg?region=0,32,1024,576&width=960",
+    "link": "https://www.youtube.com/watch?v=zRMicKd9IH8",
+    "categoria": "Animacao"
+  },
+  {
+    "id": 11,
+    "titulo": "Orgulho e Preconceito",
+    "descricao": "Um clássico romance de Jane Austen que explora a luta entre o amor e o orgulho em uma sociedade de classes rígidas.",
+    "imagem": "https://wallpapers.com/images/hd/2005-pride-and-prejudice-poster-b1oftr6k1vs9pw22.jpg",
+    "link": "https://www.youtube.com/watch?v=oXPCwF6W_gY",
+    "categoria": "Romance"
+  },
+  {
+    "id": 14,
+    "titulo": "Amor à Primeira Vista",
+    "descricao": "Uma comédia romântica que explora o amor instantâneo e as consequências de encontrar a alma gêmea em um instante.",
+    "imagem": "https://s2-techtudo.glbimg.com/J20zjKLbNKuH8dg03dD9dXNc7Ec=/0x0:1280x720/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/j/h/S8s90fTvGBkRcXHc3mYw/love1.jpg",
+    "link": "https://www.youtube.com/watch?v=AmorPrimeiroVisita",
+    "categoria": "Romance"
+  },
+  {
+    "id": 15,
+    "titulo": "One Piece",
+    "descricao": "One Piece é uma série de anime e mangá japonesa criada por Eiichiro Oda. A trama segue a jornada do jovem pirata Monkey D. Luffy e sua tripulação, que buscam o tesouro conhecido como 'One Piece' para se tornarem os reis dos piratas. Com uma narrativa rica em aventuras, mistério e momentos emocionantes, One Piece combina ação, amizade e uma vasta diversidade de personagens icônicos.",
+    "imagem": "https://i1.wp.com/guiadoanime.com.br/wp-content/uploads/2024/01/Os-novos-designs-de-chapeus-de-palha-de-One-Piece.jpg",
+    "link": "https://www.youtube.com/watch?v=LHTYpWI3S6Q",
+    "categoria": "Anime"
+  },
+  {
+    "id": 16,
+    "titulo": "Demon Slayer",
+    "descricao": "Demon Slayer: Kimetsu no Yaiba é uma série de anime e mangá que conta a história de Tanjiro Kamado, um jovem que se torna caçador de demônios para vingar sua família após uma tragédia. Com uma arte visual impressionante e batalhas intensas, o anime explora temas como determinação, sacrifício e a busca pela justiça. Demon Slayer se destacou por sua trama emocional e cenas de luta memoráveis.",
+    "imagem": "https://static.wixstatic.com/media/d1d730_5eecce26241c4e3590cf29f856473e2d~mv2.jpg/v1/fill/w_1000,h_500,al_c,q_85,usm_0.66_1.00_0.01/d1d730_5eecce26241c4e3590cf29f856473e2d~mv2.jpg",
+    "link": "https://www.youtube.com/watch?v=VQGCKyvzIM4",
+    "categoria": "Anime"
+  }
+
+]

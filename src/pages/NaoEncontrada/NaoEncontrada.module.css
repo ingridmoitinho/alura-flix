@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 40%;
+    height: auto;
+    margin-top: 2rem;    
+}
+
+.paragrafo {
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+    width: 50%;    
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,26 @@
+.textarea {
+    font-family: var(--fonte);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+.campoInput {
+    padding: 10px;
+    padding-right: 2px;
+    border: 2px solid var(--cinza);
+    color: var(--branco);
+    border-radius: 10px;
+    background-color: transparent; 
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: var(--fonte);
+    outline: 0;
+}
+
+.campoInput:focus {
+    border-color: var(--branco);
+}

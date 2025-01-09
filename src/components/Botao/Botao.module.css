@@ -1,0 +1,42 @@
+.botao,
+.botaoDestacado {
+    text-decoration: none;
+    background-color: var(--azul);
+    color: var(--branco);  
+    border: solid 1px var(--branco);  
+    font-size: 1.25rem;
+    font-weight: 900;   
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 54px;
+}
+
+.botao:hover,
+.botaoDestacado:hover {
+    background-color: var(--cinza);    
+    color: var(--branco);
+}
+
+@media (max-width: 767px) {
+    .botao,
+    .botaoDestacado {
+        font-size: 1rem;
+        width: 135px;
+        height: 45px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .botao,
+    .botaoDestacado {
+        font-size: 0.8rem;
+        width: 115px;
+        height: 40px;
+    }
+}

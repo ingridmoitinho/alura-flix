@@ -1,0 +1,111 @@
+.container {
+    width: 345px;
+    height: 256px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.imagem {
+    width: 345px;
+    height: 208px;
+    position: relative;
+    cursor: pointer;
+}
+
+.imagemItem {
+    width: 100%;
+    height: 100%;
+}
+
+.opcoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.divImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 0 0 4px 2px;   
+}
+
+button {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.editButton {
+    border: 1px solid rgb(25, 78, 109);
+    color: var(--branco);
+    background-color: var(--cinza);
+}
+
+.editButton:hover {
+    background-color: rgb(25, 78, 109);
+}
+
+.deleteButton {
+    color: var(--branco);
+    background-color: var(--cinza);
+    border: 1px solid#bd2054;      
+}
+
+.deleteButton:hover {
+    background-color: #bd2054;   
+}
+
+.aboutButton { 
+    color: var(--branco);
+    background-color: var(--cinza);
+    border: 1px solid rgb(18, 97, 35);  
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px; 
+    text-decoration: none;    
+    display: flex;
+    align-items: center; 
+    gap: 4px; 
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+
+.aboutButton:hover {
+    background-color: rgb(18, 97, 35);    
+}
+
+@media (max-width: 767px) {
+    .container {
+        width: 259px;
+        height: 210px;
+    }
+    
+    .imagem {
+        width: 259px;
+        height: 156px;
+    }
+
+    button {
+        font-size: 12px;       
+    }
+    .aboutButton {
+        font-size: 12px;       
+    }   	
+  
+}
